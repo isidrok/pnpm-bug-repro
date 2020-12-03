@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "fs-extra": "^9.0.1"
+    "object-assign": "^4.1.1"
   }
 }
